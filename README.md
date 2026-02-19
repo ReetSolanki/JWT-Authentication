@@ -287,7 +287,7 @@ MIT License - feel free to use this for learning!
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://github.com/yourusername)
+Your Name - [@ReetSolanki](https://github.com/ReetSolanki)
 
 ---
 
