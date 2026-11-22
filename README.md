@@ -1,7 +1,5 @@
 # JWT Authentication with Access & Refresh Tokens
 
-Tutorial from https://youtu.be/mbsmsi7l3r4?si=4bECkyq7TyRVfH2b
-
 A Node.js implementation demonstrating JWT-based authentication using separate access and refresh tokens. This project uses two Express servers to showcase security best practices for API authentication.
 
 ## 🎯 What This Project Does
@@ -246,6 +244,7 @@ This is a **learning/demo project** and has limitations:
 - ❌ **Refresh tokens never expire** - Should have expiration in production
 
 ## 🎓 Learning Outcomes
+Tutorial from https://youtu.be/mbsmsi7l3r4?si=4bECkyq7TyRVfH2b
 
 After exploring this project, you'll understand:
 
@@ -288,7 +287,3 @@ MIT License - feel free to use this for learning!
 ## 👤 Author
 
 Your Name - [@ReetSolanki](https://github.com/ReetSolanki)
-
----
-
-**⭐ If this helped you understand JWT auth, give it a star!**
